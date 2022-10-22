@@ -1,7 +1,8 @@
 # MS Access Code
 
-Some helpful example code snippets for using Python to work with MS Access Databases-
+Some helpful example code snippets for using Python to work with MS Access Databases and Excel Tables
 
+Author: Kai Londenberg
 License: [Unlicense](LICENSE)
 
-This means, you are basically free to do with these examples to do what you want. 
+This means, everybody is free to do with these examples what you want. The licenses of the used libraries apply regardless, of course. 
