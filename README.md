@@ -1,4 +1,4 @@
-# MS Access Codee
+# MS Access Code
 
 Some helpful example code snippets for using Python to work with MS Access Databases-
 
